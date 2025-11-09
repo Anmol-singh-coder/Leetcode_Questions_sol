@@ -6,9 +6,14 @@ These are the questions I have solved on Leetcode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
