@@ -9,6 +9,6 @@ class Solution {
                 ind++;
             }
         }
-        System.out.print(Arrays.toString(nums));
+        
     }
 }
