@@ -11,6 +11,7 @@ These are the questions I have solved on Leetcode
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -21,4 +22,9 @@ These are the questions I have solved on Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
