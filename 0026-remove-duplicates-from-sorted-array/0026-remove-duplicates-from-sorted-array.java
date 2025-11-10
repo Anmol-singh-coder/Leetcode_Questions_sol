@@ -1,3 +1,4 @@
+// That’s a clever way to repurpose insertion logic — you’re literally “inserting” the second half elements into their shuffled spots.o(n2)
 class Solution {
     public int removeDuplicates(int[] nums) {
         int ind=1;
