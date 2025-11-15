@@ -42,6 +42,7 @@ These are the questions I have solved on Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@ These are the questions I have solved on Leetcode
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
 ## Math
