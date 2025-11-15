@@ -8,6 +8,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ These are the questions I have solved on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
