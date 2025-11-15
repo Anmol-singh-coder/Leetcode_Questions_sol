@@ -16,6 +16,7 @@ These are the questions I have solved on Leetcode
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
+| [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -31,6 +32,7 @@ These are the questions I have solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
