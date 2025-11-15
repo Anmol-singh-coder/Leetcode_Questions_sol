@@ -1,7 +1,7 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         for(int num=0;num<numbers.length;num++){
-            int st=0;
+            int st=num+1;
             int end=numbers.length-1;
             while(st<=end){
                 int mid=st+(end-st)/2;
