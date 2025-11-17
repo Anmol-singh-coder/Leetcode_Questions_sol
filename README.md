@@ -18,6 +18,7 @@ These are the questions I have solved on Leetcode
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
@@ -34,6 +35,7 @@ These are the questions I have solved on Leetcode
 | [0027-remove-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -57,6 +59,7 @@ These are the questions I have solved on Leetcode
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -74,8 +77,10 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
