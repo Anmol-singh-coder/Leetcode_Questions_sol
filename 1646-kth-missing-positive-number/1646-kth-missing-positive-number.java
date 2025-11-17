@@ -1,4 +1,6 @@
 class Solution {
+//Very good question . It took me 3 Hours to correct my logic :)
+
     public int findKthPositive(int[] arr, int k) {
         if(arr.length==1){
             if(k<arr[0]){
