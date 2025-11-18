@@ -14,6 +14,7 @@ These are the questions I have solved on Leetcode
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
