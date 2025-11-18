@@ -74,6 +74,7 @@ These are the questions I have solved on Leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0441-arranging-coins) |
