@@ -78,6 +78,7 @@ These are the questions I have solved on Leetcode
 | [0367-valid-perfect-square](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0441-arranging-coins) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
+| [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
