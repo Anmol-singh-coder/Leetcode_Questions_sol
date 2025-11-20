@@ -21,6 +21,7 @@ These are the questions I have solved on Leetcode
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
@@ -33,6 +34,7 @@ These are the questions I have solved on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@ These are the questions I have solved on Leetcode
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
