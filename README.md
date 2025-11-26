@@ -36,6 +36,7 @@ These are the questions I have solved on Leetcode
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
@@ -117,6 +118,7 @@ These are the questions I have solved on Leetcode
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
