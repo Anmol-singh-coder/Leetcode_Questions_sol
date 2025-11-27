@@ -34,6 +34,7 @@ These are the questions I have solved on Leetcode
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
+| [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -137,4 +138,8 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
