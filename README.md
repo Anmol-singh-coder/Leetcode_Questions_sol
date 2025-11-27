@@ -22,6 +22,7 @@ These are the questions I have solved on Leetcode
 | [0704-binary-search](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
@@ -44,6 +45,7 @@ These are the questions I have solved on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Two Pointers
@@ -60,6 +62,7 @@ These are the questions I have solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
