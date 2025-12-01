@@ -15,6 +15,7 @@ These are the questions I have solved on Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
@@ -76,6 +77,7 @@ These are the questions I have solved on Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0367-valid-perfect-square) |
@@ -101,6 +103,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0441-arranging-coins) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -109,6 +112,7 @@ These are the questions I have solved on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -118,6 +122,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
@@ -145,4 +150,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
