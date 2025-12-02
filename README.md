@@ -20,6 +20,7 @@ These are the questions I have solved on Leetcode
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -117,6 +118,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +130,7 @@ These are the questions I have solved on Leetcode
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
