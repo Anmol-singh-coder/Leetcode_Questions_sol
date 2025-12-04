@@ -43,6 +43,7 @@ These are the questions I have solved on Leetcode
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
@@ -168,6 +169,7 @@ These are the questions I have solved on Leetcode
 | [1678-goal-parser-interpretation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
 | ------- |
