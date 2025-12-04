@@ -159,6 +159,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 ## Bit Manipulation
 |  |
