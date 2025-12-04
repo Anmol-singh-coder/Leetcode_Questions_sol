@@ -40,6 +40,7 @@ These are the questions I have solved on Leetcode
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
@@ -160,6 +161,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 ## Bit Manipulation
