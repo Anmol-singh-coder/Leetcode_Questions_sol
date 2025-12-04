@@ -36,6 +36,7 @@ These are the questions I have solved on Leetcode
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1528-shuffle-string) |
 | [1580-shuffle-the-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
@@ -157,6 +158,7 @@ These are the questions I have solved on Leetcode
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 ## Bit Manipulation
 |  |
