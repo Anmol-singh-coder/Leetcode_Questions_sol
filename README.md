@@ -49,6 +49,7 @@ These are the questions I have solved on Leetcode
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +119,7 @@ These are the questions I have solved on Leetcode
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +151,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
