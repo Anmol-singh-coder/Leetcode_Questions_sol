@@ -183,6 +183,7 @@ These are the questions I have solved on Leetcode
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
