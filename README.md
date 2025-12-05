@@ -168,6 +168,7 @@ These are the questions I have solved on Leetcode
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0709-to-lower-case) |
