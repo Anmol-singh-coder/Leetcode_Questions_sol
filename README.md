@@ -69,6 +69,7 @@ These are the questions I have solved on Leetcode
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0925-long-pressed-name](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0925-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -180,6 +181,7 @@ These are the questions I have solved on Leetcode
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
