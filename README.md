@@ -12,6 +12,7 @@ These are the questions I have solved on Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -162,6 +163,7 @@ These are the questions I have solved on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Counting Sort
 |  |
@@ -199,4 +201,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
