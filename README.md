@@ -201,6 +201,7 @@ These are the questions I have solved on Leetcode
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0461-hamming-distance) |
 ## Stack
 |  |
 | ------- |
