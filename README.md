@@ -203,6 +203,7 @@ These are the questions I have solved on Leetcode
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
