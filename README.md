@@ -200,6 +200,7 @@ These are the questions I have solved on Leetcode
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
