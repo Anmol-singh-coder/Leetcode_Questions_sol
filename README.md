@@ -124,6 +124,7 @@ These are the questions I have solved on Leetcode
 | [0367-valid-perfect-square](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0441-arranging-coins) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1486-xor-operation-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -205,6 +206,7 @@ These are the questions I have solved on Leetcode
 | [0476-number-complement](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
 | ------- |
