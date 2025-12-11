@@ -216,6 +216,7 @@ These are the questions I have solved on Leetcode
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Stack
 |  |
 | ------- |
