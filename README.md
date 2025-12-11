@@ -52,6 +52,7 @@ These are the questions I have solved on Leetcode
 | [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
@@ -213,6 +214,7 @@ These are the questions I have solved on Leetcode
 | [2595-number-of-even-and-odd-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
 |  |
 | ------- |
