@@ -208,6 +208,7 @@ These are the questions I have solved on Leetcode
 | [1009-complement-of-base-10-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2595-number-of-even-and-odd-bits) |
 ## Stack
 |  |
 | ------- |
