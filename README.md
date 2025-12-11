@@ -55,6 +55,7 @@ These are the questions I have solved on Leetcode
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ These are the questions I have solved on Leetcode
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ These are the questions I have solved on Leetcode
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Stack
 |  |
 | ------- |
