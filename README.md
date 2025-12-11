@@ -78,6 +78,7 @@ These are the questions I have solved on Leetcode
 | [1768-merge-strings-alternately](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +136,7 @@ These are the questions I have solved on Leetcode
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@ These are the questions I have solved on Leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +225,7 @@ These are the questions I have solved on Leetcode
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Stack
 |  |
 | ------- |
