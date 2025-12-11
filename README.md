@@ -196,6 +196,7 @@ These are the questions I have solved on Leetcode
 | [1859-sorting-the-sentence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
