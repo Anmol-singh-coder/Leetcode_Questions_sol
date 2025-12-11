@@ -131,6 +131,7 @@ These are the questions I have solved on Leetcode
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ These are the questions I have solved on Leetcode
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
 | ------- |
