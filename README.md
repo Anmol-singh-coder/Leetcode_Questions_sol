@@ -25,6 +25,7 @@ These are the questions I have solved on Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -74,6 +75,7 @@ These are the questions I have solved on Leetcode
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0925-long-pressed-name](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0925-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -163,6 +165,7 @@ These are the questions I have solved on Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -182,6 +185,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Counting Sort
 |  |
@@ -268,4 +272,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
