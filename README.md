@@ -77,6 +77,7 @@ These are the questions I have solved on Leetcode
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0925-long-pressed-name](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0925-long-pressed-name) |
@@ -203,6 +204,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0709-to-lower-case) |
@@ -255,6 +257,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
