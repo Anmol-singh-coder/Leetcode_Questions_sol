@@ -150,6 +150,7 @@ These are the questions I have solved on Leetcode
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3870-count-commas-in-range](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
