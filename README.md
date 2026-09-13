@@ -156,6 +156,7 @@ These are the questions I have solved on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
@@ -204,6 +205,7 @@ These are the questions I have solved on Leetcode
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
@@ -286,4 +288,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
