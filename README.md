@@ -30,6 +30,7 @@ These are the questions I have solved on Leetcode
 | [0704-binary-search](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0848-shifting-letters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
@@ -190,6 +191,7 @@ These are the questions I have solved on Leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0848-shifting-letters) |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -216,6 +218,7 @@ These are the questions I have solved on Leetcode
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0709-to-lower-case) |
+| [0848-shifting-letters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
