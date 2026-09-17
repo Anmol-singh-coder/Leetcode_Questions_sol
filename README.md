@@ -60,6 +60,7 @@ These are the questions I have solved on Leetcode
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3033-modify-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -69,6 +70,7 @@ These are the questions I have solved on Leetcode
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [3033-modify-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
