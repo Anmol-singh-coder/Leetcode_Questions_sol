@@ -12,6 +12,7 @@ These are the questions I have solved on Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0136-single-number) |
@@ -304,4 +305,5 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
