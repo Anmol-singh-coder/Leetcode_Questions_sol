@@ -14,6 +14,7 @@ These are the questions I have solved on Leetcode
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -247,6 +248,7 @@ These are the questions I have solved on Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
@@ -312,4 +314,5 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
