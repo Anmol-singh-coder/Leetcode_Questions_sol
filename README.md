@@ -93,6 +93,7 @@ These are the questions I have solved on Leetcode
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0925-long-pressed-name) |
@@ -336,6 +337,7 @@ These are the questions I have solved on Leetcode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
