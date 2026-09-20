@@ -85,6 +85,7 @@ These are the questions I have solved on Leetcode
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0344-reverse-string) |
@@ -149,6 +150,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
@@ -175,6 +177,7 @@ These are the questions I have solved on Leetcode
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -338,4 +341,5 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
