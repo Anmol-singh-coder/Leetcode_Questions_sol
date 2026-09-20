@@ -321,4 +321,8 @@ These are the questions I have solved on Leetcode
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0784-letter-case-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
