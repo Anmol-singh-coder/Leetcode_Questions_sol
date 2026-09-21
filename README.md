@@ -84,6 +84,7 @@ These are the questions I have solved on Leetcode
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
@@ -191,6 +192,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0414-third-maximum-number) |
@@ -305,6 +307,7 @@ These are the questions I have solved on Leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
@@ -337,6 +340,7 @@ These are the questions I have solved on Leetcode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -344,4 +348,8 @@ These are the questions I have solved on Leetcode
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
