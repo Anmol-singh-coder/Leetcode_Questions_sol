@@ -84,6 +84,7 @@ These are the questions I have solved on Leetcode
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
@@ -290,6 +291,7 @@ These are the questions I have solved on Leetcode
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
@@ -303,6 +305,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
@@ -345,6 +348,7 @@ These are the questions I have solved on Leetcode
 | [0092-reverse-linked-list-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
