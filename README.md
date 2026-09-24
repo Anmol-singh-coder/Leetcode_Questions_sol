@@ -65,6 +65,7 @@ These are the questions I have solved on Leetcode
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
