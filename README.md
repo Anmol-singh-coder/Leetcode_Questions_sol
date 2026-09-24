@@ -61,6 +61,7 @@ These are the questions I have solved on Leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2058-concatenation-of-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -108,6 +109,7 @@ These are the questions I have solved on Leetcode
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
@@ -194,6 +196,7 @@ These are the questions I have solved on Leetcode
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -332,6 +335,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 ## Number Theory
 |  |
 | ------- |
