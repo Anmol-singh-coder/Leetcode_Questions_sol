@@ -23,6 +23,7 @@ These are the questions I have solved on Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
@@ -192,6 +193,7 @@ These are the questions I have solved on Leetcode
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
@@ -210,6 +212,7 @@ These are the questions I have solved on Leetcode
 | [0016-3sum-closest](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +246,7 @@ These are the questions I have solved on Leetcode
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -334,6 +338,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
@@ -389,4 +394,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
