@@ -25,6 +25,7 @@ These are the questions I have solved on Leetcode
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ These are the questions I have solved on Leetcode
 | [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0283-move-zeroes) |
@@ -172,6 +174,7 @@ These are the questions I have solved on Leetcode
 | [0009-palindrome-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
