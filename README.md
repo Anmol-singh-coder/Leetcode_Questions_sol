@@ -319,6 +319,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
@@ -404,4 +405,12 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
