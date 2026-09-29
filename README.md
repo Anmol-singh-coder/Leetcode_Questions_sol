@@ -15,6 +15,7 @@ These are the questions I have solved on Leetcode
 | [0035-search-insert-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ These are the questions I have solved on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -168,6 +170,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
