@@ -18,6 +18,7 @@ These are the questions I have solved on Leetcode
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
@@ -84,6 +85,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -203,6 +205,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
