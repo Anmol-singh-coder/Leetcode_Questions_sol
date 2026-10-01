@@ -16,6 +16,7 @@ These are the questions I have solved on Leetcode
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -125,6 +127,7 @@ These are the questions I have solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1920-build-array-from-permutation) |
