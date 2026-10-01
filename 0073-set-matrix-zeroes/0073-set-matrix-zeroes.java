@@ -1,24 +1,88 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        boolean[] row=new boolean[matrix.length];
-        boolean[] col=new boolean[matrix[0].length];
+
+    //using space
+        // boolean[] row=new boolean[matrix.length];
+        // boolean[] col=new boolean[matrix[0].length];
+        // for(int i=0;i<matrix.length;i++){
+        //     for(int j=0;j<matrix[0].length;j++){
+        //         if(matrix[i][j]==0){
+        //             row[i]=true;
+        //             col[j]=true;
+        //         }
+        //     }
+        // }
+        // for(int i=0;i<matrix.length;i++){
+        //     for(int j=0;j<matrix[0].length;j++){
+        //         if(row[i] || col[j]){
+        //             matrix[i][j]=0;
+        //         }
+        //     }
+        // }
+
+//In constant space
+        //for row checking
+        boolean rowZero=false;
         for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
+            if(matrix[i][0]==0){
+                rowZero=true;
+            }
+        }
+        //for col checking
+        boolean colZero=false;
+        for(int i=0;i<matrix[0].length;i++){
+            if(matrix[0][i]==0){
+                colZero=true;
+            }
+        }
+        for(int i=1;i<matrix.length;i++){
+            for(int j=1;j<matrix[0].length;j++){
                 if(matrix[i][j]==0){
-                    row[i]=true;
-                    col[j]=true;
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
+                    
+
                 }
             }
         }
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                if(row[i] || col[j]){
+        for(int i=1;i<matrix.length;i++){
+            if(matrix[i][0]==0){
+                for(int j=1;j<matrix[0].length;j++){
                     matrix[i][j]=0;
                 }
             }
         }
+        for(int i=1;i<matrix[0].length;i++){
+            if(matrix[0][i]==0){
+                for(int j=1;j<matrix.length;j++){
+                    matrix[j][i]=0;
+                }
+            }
+        }
+        if(rowZero){
+            for(int i=0;i<matrix.length;i++){
+                matrix[i][0]=0;
+            }
+        }
+        if(colZero){
+            for(int i=0;i<matrix[0].length;i++){
+                matrix[0][i]=0;
+            }
+        }
+        
+
         return;
-
-
     }
 }
+
+        
+
+
+
+                                                                                                  
+        
+
+
+
+
+
