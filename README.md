@@ -270,6 +270,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0344-reverse-string) |
@@ -328,6 +329,7 @@ These are the questions I have solved on Leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
@@ -412,6 +414,7 @@ These are the questions I have solved on Leetcode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
