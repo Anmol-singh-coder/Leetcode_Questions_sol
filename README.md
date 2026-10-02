@@ -270,6 +270,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
@@ -335,6 +336,7 @@ These are the questions I have solved on Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
@@ -377,6 +379,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
@@ -409,6 +412,7 @@ These are the questions I have solved on Leetcode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
