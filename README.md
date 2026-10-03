@@ -79,6 +79,7 @@ These are the questions I have solved on Leetcode
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3033-modify-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
@@ -221,6 +222,7 @@ These are the questions I have solved on Leetcode
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +410,7 @@ These are the questions I have solved on Leetcode
 | [0237-delete-node-in-a-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
