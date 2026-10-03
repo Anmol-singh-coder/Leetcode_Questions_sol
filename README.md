@@ -336,6 +336,7 @@ These are the questions I have solved on Leetcode
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +355,7 @@ These are the questions I have solved on Leetcode
 | [0231-power-of-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -405,6 +407,7 @@ These are the questions I have solved on Leetcode
 | [0234-palindrome-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -433,4 +436,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
