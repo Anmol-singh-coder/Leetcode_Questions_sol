@@ -23,6 +23,7 @@ These are the questions I have solved on Leetcode
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0162-find-peak-element) |
@@ -344,6 +345,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0509-fibonacci-number) |
