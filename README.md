@@ -77,6 +77,7 @@ These are the questions I have solved on Leetcode
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3033-modify-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -92,6 +93,7 @@ These are the questions I have solved on Leetcode
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@ These are the questions I have solved on Leetcode
 | [1486-xor-operation-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2571-find-the-pivot-integer](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2571-find-the-pivot-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -223,6 +226,7 @@ These are the questions I have solved on Leetcode
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
