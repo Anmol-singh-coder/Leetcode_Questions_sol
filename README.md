@@ -425,6 +425,7 @@ These are the questions I have solved on Leetcode
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -451,4 +452,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2487-remove-nodes-from-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
