@@ -40,6 +40,7 @@ These are the questions I have solved on Leetcode
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -90,6 +91,7 @@ These are the questions I have solved on Leetcode
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -135,6 +137,7 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1920-build-array-from-permutation) |
