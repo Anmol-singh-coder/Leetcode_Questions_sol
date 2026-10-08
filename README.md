@@ -67,6 +67,7 @@ These are the questions I have solved on Leetcode
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1646-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1773-count-items-matching-a-rule](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1773-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1833-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1920-build-array-from-permutation) |
@@ -364,6 +365,7 @@ These are the questions I have solved on Leetcode
 | [0338-counting-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
