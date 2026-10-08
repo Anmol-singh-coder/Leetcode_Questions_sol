@@ -53,6 +53,7 @@ These are the questions I have solved on Leetcode
 | [0924-fair-candy-swap](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0924-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1051-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1185-find-in-mountain-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -199,6 +200,7 @@ These are the questions I have solved on Leetcode
 | [0509-fibonacci-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1486-xor-operation-in-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/1523-count-odd-numbers-in-an-interval-range) |
