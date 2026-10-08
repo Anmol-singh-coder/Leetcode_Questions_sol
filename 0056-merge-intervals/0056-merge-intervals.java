@@ -1,6 +1,7 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        sortMatrix(intervals);
+        // sortMatrix(intervals);
+        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
         
         ArrayList<int[]> list=new ArrayList<>();
         list.add(intervals[0]);
