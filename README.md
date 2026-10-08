@@ -19,6 +19,7 @@ These are the questions I have solved on Leetcode
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
@@ -236,6 +237,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0015-3sum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0169-majority-element) |
@@ -391,6 +393,7 @@ These are the questions I have solved on Leetcode
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
