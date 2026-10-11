@@ -79,6 +79,7 @@ These are the questions I have solved on Leetcode
 | [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2551-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2917-find-the-k-or-of-an-array) |
@@ -395,6 +396,7 @@ These are the questions I have solved on Leetcode
 | ------- |
 | [0204-count-primes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
