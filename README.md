@@ -17,6 +17,7 @@ These are the questions I have solved on Leetcode
 | [0041-first-missing-positive](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0055-jump-game) |
@@ -413,6 +414,7 @@ These are the questions I have solved on Leetcode
 | [0022-generate-parentheses](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
@@ -473,4 +475,8 @@ These are the questions I have solved on Leetcode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
