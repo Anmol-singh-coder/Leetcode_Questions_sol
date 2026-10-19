@@ -24,6 +24,7 @@ These are the questions I have solved on Leetcode
 | [0056-merge-intervals](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ These are the questions I have solved on Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol-singh-coder/Leetcode_Questions_sol/tree/master/0142-linked-list-cycle-ii) |
